@@ -1,5 +1,5 @@
 {
-  "name": "rui-typings",
+  "name": "rambler-ui-typings",
   "version": "3.40.0",
   "description": "Typings for Ramler UI kit",
   "typings": "index.d.ts",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/inoyakaigor/RUI-typings.git"
+    "url": "git+https://github.com/inoyakaigor/rambler-ui-typings.git"
   },
   "keywords": [
     "Rambler",
@@ -18,7 +18,7 @@
   "author": "Igor «InoY» Zvaygintsev <inoyakaigor@ya.ru> (https://inoyakaigor.ru)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/inoyakaigor/RUI-typings/issues"
+    "url": "https://github.com/inoyakaigor/rambler-ui-typings/issues"
   },
   "homepage": "https://ui-kit.rambler.ru/",
   "dependencies": {
