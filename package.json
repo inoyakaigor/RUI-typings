@@ -1,0 +1,27 @@
+{
+  "name": "rui-typings",
+  "version": "3.40.0",
+  "description": "Typings for Ramler UI kit",
+  "main": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inoyakaigor/RUI-typings.git"
+  },
+  "keywords": [
+    "Rambler",
+    "Rambler UI",
+    "typings"
+  ],
+  "author": "Igor «InoY» Zvaygintsev <inoyakaigor@ya.ru> (https://inoyakaigor.ru)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/inoyakaigor/RUI-typings/issues"
+  },
+  "homepage": "https://ui-kit.rambler.ru/",
+  "dependencies": {
+    "@types/react": "^16.8.5"
+  }
+}
