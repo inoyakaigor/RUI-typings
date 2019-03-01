@@ -1,9 +1,9 @@
 import {Component} from 'react'
 
 declare namespace RamblerUI {
-    export type Tvariation = 'regular' | 'awesome'
-    export type Tsize = 'small' | 'medium'
-    export type TiconPosition = 'left' | 'right'
+    export type variation = 'regular' | 'awesome'
+    export type size = 'small' | 'medium'
+    export type iconPosition = 'left' | 'right'
 
     export class Avatar extends Component<any, any> {}
 
@@ -16,15 +16,15 @@ declare namespace RamblerUI {
         disabled?: boolean
         className?: string
         style?: object
-        iconPosition?: TiconPosition
+        iconPosition?: iconPosition
         checked?: boolean
         indeterminate?: boolean
         checkboxStyle?: object
-        checkboxclassName?: string
+        checkboxClassName?: string
         labelStyle?: object
-        labelclassName?: string
-        variation?: Tvariation
-        size?: Tsize
+        labelClassName?: string
+        variation?: variation
+        size?: size
         onCheck?: () => any
     }
     export class Checkbox extends Component<CheckboxProps, any> {}
