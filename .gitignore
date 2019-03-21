@@ -10,3 +10,10 @@ local_font/
 build/
 npm-debug.*.*
 .idea/
+*.js
+*.jsx
+*.ts
+*.tsx
+*.eslintrc
+# include the .d.ts files
+!*.d.ts

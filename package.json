@@ -1,6 +1,6 @@
 {
   "name": "rambler-ui-typings",
-  "version": "3.40.0",
+  "version": "3.42.4",
   "description": "Typings for Ramler UI kit",
   "typings": "index.d.ts",
   "scripts": {
@@ -22,6 +22,7 @@
   },
   "homepage": "https://ui-kit.rambler.ru/",
   "dependencies": {
-    "@types/react": "^16.8.5"
+    "@types/react": "^16.8.3",
+    "@types/react-dom": "^16.8.3"
   }
 }
